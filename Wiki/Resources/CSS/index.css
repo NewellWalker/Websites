@@ -1,0 +1,8 @@
+body {
+    display: block;
+}
+
+.center-image {
+    display: inline-block;
+    height: 350px;
+}
